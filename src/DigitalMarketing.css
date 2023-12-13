@@ -419,5 +419,26 @@
     .V-main{
         height:30vh;
     }
+    .DMFP-heading{
+        font-size: 1rem;
+        margin-left: 30px;
+    }
+    .DMFP-subtitle{
+        font-size: 0.7rem;
+        margin-left: 30px;
+    }
+    .DMFP-buttons{
+        margin-left: 30px;
+    }
+    .DMFP-buttons .button1{
+        padding: 6px 15px;
+        font-size: 0.2rem;
+    }
+    .DMFP-buttons .button2{
+        padding: 6px 15px;
+        font-size: 0.2rem;
+        margin-left: 28px;
+    }
+
     
 }
