@@ -398,7 +398,7 @@
     width:100%;
     border-radius: 50%;
 }
-@media(max-width:600px){
+@media(max-width:1000px){
     .DMH-dummy{
         display: block;
     }
