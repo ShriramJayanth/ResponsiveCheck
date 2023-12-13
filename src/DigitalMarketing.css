@@ -397,3 +397,27 @@
     width:100%;
     border-radius: 50%;
 }
+@media(max-width:1100px){
+    .DMFP-main{
+        height:60vh;
+    }
+    .DMH-main{
+        height:5vh;
+    }
+    .DMR-main{
+        height:20vh;
+    }
+    .DML-main{
+        height:20vh;
+    }
+    .DMH2-main{
+        height:5vh;
+    }
+    .SG-main{
+        height:30vh;
+    }
+    .V-main{
+        height:30vh;
+    }
+    
+}

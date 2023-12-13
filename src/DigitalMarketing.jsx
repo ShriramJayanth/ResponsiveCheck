@@ -11,6 +11,7 @@ import pic6 from "./Assets/pic6.png";
 import DigitalMarketingHeader2 from "./Components/DigitalMarketingHeader2";
 import SolutionsGrid from "./Components/SolutionsGrid";
 import Values from "./Components/Values";
+import "./DigitalMarketing.css";
 
 
 export default function DigitalMarketing(){
