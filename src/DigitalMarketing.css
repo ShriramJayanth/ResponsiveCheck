@@ -439,6 +439,12 @@
         font-size: 0.2rem;
         margin-left: 28px;
     }
+    .DMFP-title{
+        font-size: 0.6rem;
+    }
+    .DMFP-subbtitle{
+        font-size: 0.3rem;
+    }
 
     
 }
