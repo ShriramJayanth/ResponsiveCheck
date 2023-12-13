@@ -399,6 +399,9 @@
     border-radius: 50%;
 }
 @media(max-width:600px){
+    .DMH-dummy{
+        display: block;
+    }
     .DMFP-main{
         height:60vh;
     }
@@ -482,6 +485,7 @@
     }
     .DMFP-pic img{
         margin-right: 0px;
+        width:100%;
     }
 
     
