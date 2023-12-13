@@ -411,7 +411,7 @@
         height:20vh;
     }
     .DMH2-main{
-        height:5vh;
+        height:20vh;
     }
     .SG-main{
         height:30vh;
@@ -444,6 +444,43 @@
     }
     .DMFP-subbtitle{
         font-size: 0.28rem;
+    }
+    .DMH-heading{
+        font-size:0.5rem
+    }
+    .DMH-subtitle{
+        font-size: 1rem;
+    }
+    .DMR-heading{
+        font-size: 0.6rem;
+    }
+    .DMR-desc{
+        font-size:0.4rem
+    }
+    .SG-card{
+        height:80px;
+        width:80px;
+    }
+    .DMH2-heading{
+        font-size:0.5rem
+    }
+    .DMH2-subtitle{
+        font-size: 1rem;
+    }
+    .SGC-title{
+        font-size:0.3rem
+    }
+    .V-heading{
+        font-size: 0.4rem;
+    }
+    .V-desc{
+        font-size: 0.2rem;
+    }
+    .V-subtitle{
+        font-size: 0.7rem;
+    }
+    .DMFP-pic img{
+        margin-right: 0px;
     }
 
     
