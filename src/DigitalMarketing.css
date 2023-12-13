@@ -115,27 +115,27 @@
 .DMFP-pic img{
     height:100%;
     width:85%;
-    margin-right: 50px;
+    margin-right: 20px;
 }
 .DMFP-heading{
     height:30%;
     width: 70%;
     font-size: 46px ;
     font-weight: bold;
-    margin-left: 100px;
+    margin-left: 140px;
 }
 .DMFP-subtitle{
     height:15%;
     width: 70%;
     font-size:26px;
     font-weight: 300;
-    margin-left: 100px;
+    margin-left: 140px;
 }
 .DMFP-buttons{
     margin-top: 40px;
     height:15%;
     width: 70%;
-    margin-left: 100px;
+    margin-left: 140px;
 }
 .DMFP-buttons .button1{
     background-color: #6020BD;
