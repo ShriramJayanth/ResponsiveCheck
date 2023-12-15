@@ -7,7 +7,7 @@ export default function DigitalMarketingFP(){
         <div className="DMFP-first">
             <div className="DMFP-content">
                 <div className="DMFP-heading"><p>Digital Marketing &</p><p>Web Designing</p></div>
-                <div className="DMFP-subtitle"><p>Driving digital growth with</p><p>precision</p></div>
+                <div className="DMFP-subtitle"><p>Driving digital growth with precision</p></div>
                 <div className="DMFP-buttons"><button className="button1">Contact us today!!!</button><button className="button2">Explore services</button></div>
             </div>
             <div className="DMFP-pic"><img src={pic7}></img></div>

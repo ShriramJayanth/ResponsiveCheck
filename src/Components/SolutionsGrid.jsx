@@ -6,12 +6,12 @@ import pic11 from "../Assets/pic11.png";
 import pic12 from "../Assets/pic12.png";
 import pic13 from "../Assets/pic13.png";
 import pic14 from "../Assets/pic14.png";
-import pic15 from "../Assets/pic15.jpg";
+import pic15 from "../Assets/pic15.png";
 import pic16 from "../Assets/pic16.png";
 import pic17 from "../Assets/pic17.png";
 import pic18 from "../Assets/pic18.png";
-import pic19 from "../Assets/pic19.jpg";
-import pic20 from "../Assets/pic20.jpg";
+import pic19 from "../Assets/pic19.png";
+import pic20 from "../Assets/pic20.png";
 export default function SolutionsGrid(){
     return(<>
         <div className="SG-main">
