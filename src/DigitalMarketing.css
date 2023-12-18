@@ -406,21 +406,22 @@
         display: block;
     }
     .DMFP-main{
-        height:60vh;
+        height:50vh;
     }
     .DMH-main{
         height:5vh;
     }
     .DMR-main{
-        height:20vh;
+        height:15vh;
     }
     .DML-main{
-        height:20vh;
+        height:15vh;
     }
     .DMH2-main{
-        height:20vh;
+        height:10vh;
     }
     .SG-main{
+        margin-top: 10px;
         height:30vh;
     }
     .V-main{
@@ -484,11 +485,18 @@
         font-size: 0.2rem;
     }
     .V-subtitle{
+        margin-top: 10px;
         font-size: 0.7rem;
     }
     .DMFP-pic img{
         margin-right: 0px;
         width:100%;
+    }
+    .V-card1{
+        width:18%
+    }
+    .V-card2{
+        width:18%
     }
 
     
