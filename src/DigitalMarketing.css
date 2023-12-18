@@ -448,10 +448,10 @@
         margin-left: 28px;
     }
     .DMFP-title{
-        font-size: 0.5rem;
+        font-size: 0.45rem;
     }
     .DMFP-subbtitle{
-        font-size: 0.28rem;
+        font-size: 0.25rem;
     }
     .DMH-heading{
         font-size:0.5rem
@@ -474,6 +474,7 @@
     }
     .DMH2-subtitle{
         font-size: 1rem;
+        margin-bottom: 10px;
     }
     .SGC-title{
         font-size:0.3rem
