@@ -503,15 +503,102 @@
     
 }
 @media screen and (min-device-width: 600px) and (max-device-width: 1149px){
+    .DMH-dummy{
+        display: block;
+    }
+    .DMFP-main{
+        height:80vh;
+    }
+    .DMH-main{
+        height:5vh;
+    }
+    .DMR-main{
+        height:35vh;
+    }
+    .DML-main{
+        height:35vh;
+    }
+    .DMH2-main{
+        height:7vh;
+    }
+    .SG-main{
+        margin-top: 10px;
+        height:50vh;
+    }
+    .V-main{
+        height:50vh;
+    }
     .DMFP-heading{
         font-size: 30px;
-        margin-left: 0%;
+        margin-left: 30px;
     }
     .DMFP-subtitle{
-        margin-left: 0%;
+        font-size: 20px;
+        margin-left: 30px;
     }
     .DMFP-buttons{
-        margin-left: 0%;
-        font-size: 6px;
+        margin-left: 30px;
     }
+    .DMFP-buttons .button1{
+        padding: 8px 15px;
+        font-size: 0.5rem;
+    }
+    .DMFP-buttons .button2{
+        padding: 8px 15px;
+        font-size: 0.5rem;
+        margin-left: 28px;
+    }
+    .DMFP-title{
+        font-size: 0.9rem;
+    }
+    .DMFP-subbtitle{
+        font-size: 0.49rem;
+    }
+    .DMH-heading{
+        font-size:0.5rem
+    }
+    .DMH-subtitle{
+        font-size: 1rem;
+    }
+    .DMR-heading{
+        font-size: 1rem;
+    }
+    .DMR-desc{
+        font-size:0.7rem
+    }
+    .SG-card{
+        height:90px;
+        width:90px;
+    }
+    .DMH2-heading{
+        font-size:0.5rem
+    }
+    .DMH2-subtitle{
+        font-size: 1rem;
+        margin-bottom: 10px;
+    }
+    .SGC-title{
+        font-size:0.5rem
+    }
+    .V-heading{
+        font-size: 0.5rem;
+    }
+    .V-desc{
+        font-size: 0.5rem;
+    }
+    .V-subtitle{
+        margin-top: 10px;
+        font-size: 1rem;
+    }
+    .DMFP-pic img{
+        margin-right: 0px;
+        width:100%;
+    }
+    .V-card1{
+        width:18%
+    }
+    .V-card2{
+        width:18%
+    }
+    
 }
