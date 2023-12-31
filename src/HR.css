@@ -315,6 +315,20 @@ img{
     .HRFP-dummy{
         height:2vh;
     }
+    .Tab-main{
+        height:50%
+    }
+    .Tab-heading{
+        font-size: 1rem;
+
+    }
+    .Tab-desc{
+        font-size: 0.5rem;
+    }
+
+
+
+
 
 
 }
