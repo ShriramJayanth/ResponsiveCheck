@@ -1,10 +1,7 @@
-import DigitalMarketing from "./DigitalMarketing";
-
+import HR from "./HR";
 
 function App() {
-  return (<div>
-     <DigitalMarketing/>
-  </div>);
+  return (<HR/>);
 }
 
 export default App;
